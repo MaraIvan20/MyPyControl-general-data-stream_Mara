@@ -1,0 +1,18 @@
+I Experiment name  : exp4
+I Task name : test
+I Task file hash : 3610656243
+I Setup ID : COM7
+I Subject ID : 3
+I Start date : 2022/09/07 14:04:43
+
+S {"intertrial": 1}
+
+E {"session_timer": 3, "motion": 2}
+
+
+P 0 internal th=31000.0
+P 1 external th=4.472131
+P 2 CPI=100
+D 2 1
+D 3799 2
+P 3803 1

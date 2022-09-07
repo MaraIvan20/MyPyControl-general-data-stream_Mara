@@ -1,0 +1,22 @@
+{
+    "data_dir": "c:\\PyC\\MyPyControl-general-data-stream_Mara\\gui_for_test\\data\\exp4",
+    "hardware_test": "no hardware test",
+    "name": "exp4",
+    "subjects": {
+        "1": {
+            "run": false,
+            "setup": "COM7"
+        },
+        "2": {
+            "run": false,
+            "setup": "COM7"
+        },
+        "3": {
+            "run": true,
+            "setup": "COM7"
+        }
+    },
+    "subset_warning": true,
+    "task": "test",
+    "variables": []
+}
