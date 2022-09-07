@@ -20,8 +20,10 @@ Version: v1.6.2
 
 
 
-
+I adapted the original pyControl GUI to be able to show the trajectory plot and a reward/penalty barchart for the PyTreadmillTask.py;
+This folder was made for testing to be run on test.py only, using 2 motion sensors instead of the entire experimental setup needed for the PyTreadmillTask.py;
 The gui was adapted and tested to run on the task file test.py, simulating the changes that would normally take place
 in the treadmill task based on the intertrial state,motion event, and the c variable.
-For the new gui see gui_treadmilltask folder; some files in gui folder and the PyTreadmillTask.py were also modified, see comments #NEW!
+What I added can be found in the gui_treadmilltask folder; 
+Additionally, some files in the gui folder and the PyTreadmillTask.py were modified, see comments #NEW!.
 
